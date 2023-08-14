@@ -1,0 +1,6 @@
+framework module ERouter {
+  umbrella header "ERouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-RouteDemo/Pods-RouteDemo-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Home/Library.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Message/Library.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/User/Library.bundle

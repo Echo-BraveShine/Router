@@ -1,0 +1,10 @@
+
+target 'RouteDemo' do
+  use_frameworks!
+  pod 'SwiftLint'
+  pod "ERouter", :path => "Modules/ERouter/ERouter.podspec"
+  pod "Home", :path => "Modules/Home/Home.podspec"
+  pod "Message", :path => "Modules/Message/Message.podspec"
+  pod "User", :path => "Modules/User/User.podspec"
+
+end

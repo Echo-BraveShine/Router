@@ -1,0 +1,41 @@
+PODS:
+  - ERouter (0.0.2)
+  - Home (0.0.1):
+    - ERouter
+  - Message (0.0.1):
+    - ERouter
+  - SwiftLint (0.52.4)
+  - User (0.0.1):
+    - ERouter
+
+DEPENDENCIES:
+  - ERouter (from `Modules/ERouter/ERouter.podspec`)
+  - Home (from `Modules/Home/Home.podspec`)
+  - Message (from `Modules/Message/Message.podspec`)
+  - SwiftLint
+  - User (from `Modules/User/User.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  ERouter:
+    :path: Modules/ERouter/ERouter.podspec
+  Home:
+    :path: Modules/Home/Home.podspec
+  Message:
+    :path: Modules/Message/Message.podspec
+  User:
+    :path: Modules/User/User.podspec
+
+SPEC CHECKSUMS:
+  ERouter: 6996ebefe40a83a8b376400b5fdb7c7b5e457533
+  Home: 87fdf9fc835adb88297cdf7a86ab29787246a650
+  Message: 6759f4156cf26eb7508a1d056b87a6c2341f7512
+  SwiftLint: 1cc5cd61ba9bacb2194e340aeb47a2a37fda00b3
+  User: aa021f01fde51f97d55ab72f7a69bbfccc4288c1
+
+PODFILE CHECKSUM: f1d4b88308f534f8823720f8f8202c891573d40e
+
+COCOAPODS: 1.12.1
